@@ -6,7 +6,7 @@ based upon https://arxiv.org/abs/2006.10739
 The picture above is the target image that a mlp is tasked with to generate. <br/>
 The mlp takes xy coordinates and generates rgb values.
 
-<br/> default mlp 
+<br/> <b> default mlp </b> <br/>
 ![](default.gif)
-<br/> random fourier features
+<br/> <b> mlp with random fourier features </b> <br/> 
 ![](random_fourier_features.gif)
