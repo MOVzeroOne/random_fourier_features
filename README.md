@@ -1,6 +1,6 @@
 # random_fourier_features
 
-based upon https://arxiv.org/abs/2006.10739
+based upon (Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains arXiv:2006.10739)
 <br/>
 ![](fox.jpg)
 The mlp is tasked with generating the picture above. <br/>
